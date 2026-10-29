@@ -12,6 +12,6 @@
   🧠 Fun Facts
 - 🐧 Linux Enthusiast
 - 🎮 Gamer turned programmer
-- ☕ Loves to vibe with a hot cup of...vibes
+- ☕ Loves to vibe with a hot cup of...CODE
   ![](https://img.shields.io/badge/C%2B%2B-Intermediate-blue)
 
